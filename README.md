@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatiasGasparMolina
-- 👀 I’m interested in Programmin
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 
